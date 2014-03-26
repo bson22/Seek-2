@@ -3,10 +3,9 @@ body {
 	text-align: center;
 }
 
-#titleHead {
+header {
 	font-style: italic;
 	color: green;
-	float: inline;
 }
 
 #searchBox {
